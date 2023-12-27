@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/para/","tags":["지식관리"],"noteIcon":"","created":"2023-12-19T08:58:07.435+09:00"}
+{"dg-publish":true,"permalink":"/resources/para/","tags":["지식관리"],"noteIcon":"","created":"2023-12-20T22:46:38.665+09:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 # Notes
 
-![IMG_8215.png|400](/img/user/Storage/Attachment/IMG_8215.png)
+![IMG_8215.png|400](/img/user/Archive/Attachment/IMG_8215.png)
 
 ## Para
 
