@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/gtd/","tags":["할일관리","todo"],"noteIcon":"","created":"2023-12-19T08:58:07.435+09:00"}
+{"dg-publish":true,"permalink":"/resources/gtd/","tags":["할일관리","todo"],"noteIcon":"","created":"2023-12-20T22:46:38.664+09:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 # Notes
 
-![Screenshot 2023-12-08 at 9.04.27 AM.png|400](/img/user/Storage/Attachment/Screenshot%202023-12-08%20at%209.04.27%E2%80%AFAM.png)
+![Screenshot 2023-12-08 at 9.04.27 AM.png|400](/img/user/Archive/Attachment/Screenshot%202023-12-08%20at%209.04.27%E2%80%AFAM.png)
 
 # Reference
 
