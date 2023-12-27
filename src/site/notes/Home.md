@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","created":"2023-12-21T09:09:29.508+09:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","created":"2023-12-26T21:07:45.249+09:00"}
 ---
 
 
@@ -26,7 +26,7 @@
 
 # Notes
 
-![Screenshot 2023-12-08 at 9.04.27 AM.png|400](/img/user/Storage/Attachment/Screenshot%202023-12-08%20at%209.04.27%E2%80%AFAM.png)
+![Screenshot 2023-12-08 at 9.04.27 AM.png|400](/img/user/Archive/Attachment/Screenshot%202023-12-08%20at%209.04.27%E2%80%AFAM.png)
 
 # Reference
 
@@ -44,7 +44,7 @@
 
 # Notes
 
-![IMG_8215.png|400](/img/user/Storage/Attachment/IMG_8215.png)
+![IMG_8215.png|400](/img/user/Archive/Attachment/IMG_8215.png)
 
 ## Para
 
