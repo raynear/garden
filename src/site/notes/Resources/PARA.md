@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/para/","tags":["지식관리"],"noteIcon":"","created":"2023-12-20T22:46:38.665+09:00"}
+{"dg-publish":true,"permalink":"/Resources/PARA/","tags":["지식관리"],"noteIcon":"","created":"2023-12-20T22:46:38.665+09:00"}
 ---
 
 
