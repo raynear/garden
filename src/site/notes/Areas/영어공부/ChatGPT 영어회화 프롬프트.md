@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas//chat-gpt/","tags":["영어공부","AI","프롬프트","영어회화","chatgpt"]}
+{"aliases":null,"category":null,"tags":["영어공부","AI","프롬프트","영어회화","chatgpt"],"reference":"안될공학 - IT 테크 신기술","status":null,"dg-publish":true,"permalink":"/areas//chat-gpt/","dgPassFrontmatter":true}
 ---
 
 
