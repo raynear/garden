@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"category":null,"tags":["지식관리"],"reference":null,"status":null,"dg-publish":true,"permalink":"/resources/para/","dgPassFrontmatter":true}
+{"aliases":null,"category":null,"tags":["지식관리"],"reference":null,"status":null,"dg-publish":true,"permalink":"/Resources/PARA/","dgPassFrontmatter":true}
 ---
 
 
