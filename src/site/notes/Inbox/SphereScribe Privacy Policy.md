@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"reference":null,"status":null,"dg-publish":true,"permalink":"/inbox/sphere-scribe-privacy-policy/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"reference":null,"status":null,"dg-publish":true,"permalink":"/Inbox/SphereScribe Privacy Policy/","dgPassFrontmatter":true}
 ---
 
 **Privacy Policy**
