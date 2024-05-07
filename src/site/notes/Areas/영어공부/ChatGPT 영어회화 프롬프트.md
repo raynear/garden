@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Areas/영어공부/ChatGPT 영어회화 프롬프트/","tags":["영어공부","AI","프롬프트","영어회화","chatgpt"],"noteIcon":"","created":"2023-12-20T12:21:24.269+09:00"}
+{"dg-publish":true,"permalink":"/areas//chat-gpt/","tags":["영어공부","AI","프롬프트","영어회화","chatgpt"]}
 ---
 
 
