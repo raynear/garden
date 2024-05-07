@@ -1,5 +1,5 @@
 ---
-{"aliases":["아주 작은 습관의 힘"],"tags":["습관","책","코드리뷰"],"reference":"아주 작은 습관의 힘","status":"Done","dg-publish":true,"permalink":"/areas//atomic-habit/","dgPassFrontmatter":true}
+{"aliases":["아주 작은 습관의 힘"],"tags":["습관","책","코드리뷰"],"reference":"아주 작은 습관의 힘","status":"Done","dg-publish":true,"permalink":"/Areas/자기계발/Atomic Habit/","dgPassFrontmatter":true}
 ---
 
 
