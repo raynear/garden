@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"category":null,"tags":["할일관리","todo"],"reference":null,"status":null,"dg-publish":true,"permalink":"/resources/gtd/","dgPassFrontmatter":true}
+{"aliases":null,"category":null,"tags":["할일관리","todo"],"reference":null,"status":null,"dg-publish":true,"permalink":"/Resources/GTD/","dgPassFrontmatter":true}
 ---
 
 
